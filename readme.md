@@ -1,7 +1,7 @@
 
 # Curs de FreeCAD
 
-El prgrama FreeCAD es pot descarregar d'aquí: https://www.freecadweb.org/downloads.php
+El programa FreeCAD es pot descarregar d'aquí: [https://www.freecadweb.org/downloads.php](https://www.freecadweb.org/downloads.php)
 
 Aquest és un curs creat per Juan González Gómez (alies Obijuan) 
 
